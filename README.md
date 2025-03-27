@@ -1,3 +1,4 @@
+<img align="right" alt="coding" width=300 boder-radius=10 src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3N3NHY0dGdwcjNwcDh1bDh0MTRiaXpqZmY2MXB0NWg5ZWFnMGQ1biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8lgqAbycBjosxjfi9k/giphy.gif">
 ![logo](https://github.com/Namitmishra06/Namitmishra06/blob/main/github-header-image%20(1).png)
 <h1 align="center">Hi 👋, I'm Namit Mishra</h1>
 <h3 align="center">A First Year Passionate For Coding</h3>
