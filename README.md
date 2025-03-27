@@ -1,3 +1,4 @@
+![logo]()
 <h1 align="center">Hi 👋, I'm Namit Mishra</h1>
 <h3 align="center">A First Year Passionate For Coding</h3>
 
