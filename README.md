@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <img align="right" alt="coding" width=300 boder-radius=10 src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3N3NHY0dGdwcjNwcDh1bDh0MTRiaXpqZmY2MXB0NWg5ZWFnMGQ1biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8lgqAbycBjosxjfi9k/giphy.gif">
+  <img align="right" alt="coding" width=300 boder-radius=10 src="https://media1.tenor.com/m/e5mbgQTunFMAAAAd/toji-fushiguro.gif">
 <a href="https://linkedin.com/in/namit-mishra-720a00358" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="namit-mishra-720a00358" height="30" width="40" /></a>
 <a href="https://kaggle.com/namitmishra001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="namitmishra001" height="30" width="40" /></a>
 <a href="https://instagram.com/x__namit__x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="x__namit__x" height="30" width="40" /></a>
