@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/Namitmishra06/Namitmishra06/blob/main/github-header-image%20(1).png)
 <h1 align="center">Hi 👋, I'm Namit Mishra</h1>
 <h3 align="center">A First Year Passionate For Coding</h3>
 
